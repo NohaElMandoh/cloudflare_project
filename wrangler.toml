@@ -1,0 +1,8 @@
+name = "capital-rise"
+compatibility_date = "2026-10-09"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "capital-rise-db"
+database_id = "0e1a2ca7-ad6d-48ad-aa32-afc46d9ac59f"

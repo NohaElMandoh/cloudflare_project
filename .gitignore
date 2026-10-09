@@ -1,0 +1,6 @@
+.env
+.dev.vars
+LOGIN-*.txt
+node_modules/
+.wrangler/
+.DS_Store
